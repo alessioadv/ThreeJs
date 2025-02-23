@@ -1,3 +1,8 @@
-# ThreeJs Earh 3D 
-TheeJs + Vite 
-![Three JS 3D ](https://github.com/user-attachments/assets/34bb701d-2407-40af-9cd6-e8eec9f932fd)
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: gray;
+}
+
+canvas {
+  height: 900px !important;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #343a40;
+  border-radius: 15px;
+  color: #fff;
+}
+
+h1 {
+  font-size: 42px;
+  color: #0088ff;
+  margin-bottom: 20px;
+}
+h1:hover {
+  font-size: 48px;
+}
+
+.hover-content h1 {
+  display: none;
+  margin-top: 20px;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.875em;
+  background-color: #343a40;
+  color: #fff;
+  margin-top: 2rem;
+}
